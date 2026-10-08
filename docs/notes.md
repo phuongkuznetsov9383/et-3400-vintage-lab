@@ -48,3 +48,4 @@ Notes and usage details for et-3400-vintage-lab.
 - add a note about the defaults
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue
